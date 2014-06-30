@@ -1,2 +1,2 @@
-from configreaders import ConfigItemReader, ConfigBaseReader
+from configreaders import ConfigItemReader, ConfigBaseReader, ConfigJobReader
 from log import Log

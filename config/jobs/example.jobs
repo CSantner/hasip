@@ -1,0 +1,24 @@
+[INGO2]
+module = Pumpe1
+action = set_off
+year = None
+month = None
+week = None
+day = None
+day_of_week = None
+hour = None
+minute = None
+second = 14
+
+[INGO]
+module = Pumpe1
+action = set_on
+year = None
+month = None
+week = None
+day = None
+day_of_week = None
+hour = None
+minute = None
+second = 10
+
